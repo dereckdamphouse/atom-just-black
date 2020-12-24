@@ -5,30 +5,11 @@
   "version": "1.0.1",
   "publisher": "dereckdamphouse",
   "license": "SEE LICENSE IN LICENSE.txt (MIT)",
+  "icon": "icon.png",
+  "homepage": "https://github.com/dereckdamphouse/atom-just-black/blob/main/README.md",
   "author": {
     "name": "Dereck Damphouse"
   },
-  "galleryBanner": {
-		"color": "#000000",
-		"theme": "dark"
-	},
-  "engines": {
-    "vscode": "^1.0.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Atom Just Black",
-        "uiTheme": "vs-dark",
-        "path": "./themes/AtomJustBlackTheme.json"
-      }
-    ]
-  },
-  "icon": "icon.png",
-  "homepage": "https://github.com/dereckdamphouse/atom-just-black/blob/main/README.md",
   "repository": {
     "type": "git",
     "url": "https://github.com/dereckdamphouse/atom-just-black"
@@ -43,5 +24,22 @@
     "dark",
     "black",
     "just black"
-  ]
+  ],
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [{
+      "label": "Atom Just Black",
+      "uiTheme": "vs-dark",
+      "path": "./themes/AtomJustBlackTheme.json"
+    }]
+  }
 }
