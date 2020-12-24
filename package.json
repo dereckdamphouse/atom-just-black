@@ -1,0 +1,47 @@
+{
+  "name": "atom-just-black",
+  "displayName": "Atom Just Black Theme",
+  "description": "Theme based on Atom One Dark syntax colors and Just Black background colors",
+  "version": "1.0.0",
+  "publisher": "dereckdamphouse",
+  "license": "SEE LICENSE IN LICENSE.txt (MIT)",
+  "author": {
+    "name": "Dereck Damphouse"
+  },
+  "galleryBanner": {
+		"color": "#000000",
+		"theme": "dark"
+	},
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Atom Just Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/AtomJustBlack.json"
+      }
+    ]
+  },
+  "icon": "icon.png",
+  "homepage": "https://github.com/dereckdamphouse/atom-just-black",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dereckdamphouse/atom-just-black"
+  },
+  "bugs": {
+    "url": "https://github.com/dereckdamphouse/atom-just-black/issues",
+    "email": "dereckdamphouse@gmail.com"
+  },
+  "keywords": [
+    "atom",
+    "theme",
+    "dark",
+    "black",
+    "just black"
+  ]
+}
