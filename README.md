@@ -2,7 +2,7 @@
 
 Visual Studio Code theme based on [Atom One Dark](https://github.com/akamud/vscode-theme-onedark) syntax colors and [Just Black](https://github.com/nurmohammed840/VSC.ext/tree/master/JustBlack) background colors.
 
-![theme screenshot](screenshot.png)
+![theme screenshot](https://github.com/dereckdamphouse/atom-just-black/blob/main/screenshot.png?raw=true)
 
 Feel free to report an issue or leave any suggestions on [Github](https://github.com/dereckdamphouse/atom-just-black)!
 
