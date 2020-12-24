@@ -7,7 +7,7 @@ Visual Studio Code theme based on [Atom One Dark](https://github.com/akamud/vsco
 Feel free to report an issue or leave any suggestions on [Github](https://github.com/dereckdamphouse/atom-just-black)!
 
 ### Note
-If you are seeing very different colors, you may need to wait for VSCode to release an update. In the meantime, make sure to set the following setting:
+If you are seeing very different colors, please see Atom One Dark [issue #119](https://github.com/akamud/vscode-theme-onedark/issues/119). In the meantime, make sure to set the following setting:
 
 ```
 "editor.semanticHighlighting.enabled": false
