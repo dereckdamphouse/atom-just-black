@@ -1,6 +1,6 @@
 # Atom Just Black Theme
 
-Visual Studio Code theme based on [Atom One Dark](https://github.com/akamud/vscode-theme-onedark) syntax colors and [Just Black](https://github.com/nurmohammed840/VSC.ext/tree/master/JustBlack) background colors.
+Visual Studio Code theme based on [Atom One Dark](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark) syntax colors and [Just Black](https://marketplace.visualstudio.com/items?itemName=nur.just-black) background colors.
 
 ![theme screenshot](https://github.com/dereckdamphouse/atom-just-black/blob/main/screenshot.png?raw=true)
 
