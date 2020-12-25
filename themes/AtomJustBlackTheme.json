@@ -1,7 +1,7 @@
 {
    "name": "atom-just-black",
    "type": "dark",
-   "colors": {
+   "colors": {      
       "activityBar.background": "#000000",
       "activityBar.border": "#000000",
       "activityBar.activeBorder": "#000000",
@@ -47,6 +47,9 @@
       "input.background": "#000000",
       "input.border":"#181A1F",
       "focusBorder": "#000000",
+      "gitDecoration.deletedResourceForeground": "#ff537090",
+		"gitDecoration.modifiedResourceForeground": "#ac9770",
+		"gitDecoration.untrackedResourceForeground": "#d1f797a1",
       "list.activeSelectionBackground":"#2C313A",
       "list.activeSelectionForeground":"#D7DAE0",
       "list.focusBackground":"#2C313A",
@@ -74,6 +77,7 @@
       "scrollbarSlider.hoverBackground":"#5A637580",
       "sideBar.border": "#242323",
       "sideBar.background": "#000000",
+      "sideBar.foreground": "#7d7d80",
       "sideBarSectionHeader.background": "#000000",
       "statusBar.border": "#000000",
       "statusBar.background": "#000000",
