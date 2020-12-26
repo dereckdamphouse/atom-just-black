@@ -2,7 +2,7 @@
   "name": "atom-just-black",
   "displayName": "Atom Just Black Theme",
   "description": "Theme based on Atom One Dark syntax colors and Just Black background colors",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "dereckdamphouse",
   "license": "SEE LICENSE IN LICENSE.txt (MIT)",
   "icon": "icon.png",
