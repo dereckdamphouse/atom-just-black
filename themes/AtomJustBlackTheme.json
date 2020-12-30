@@ -1897,7 +1897,7 @@
       "name":"[VSCODE-CUSTOM] Css Support Constant Value",
       "scope":"support.constant.property-value.css",
       "settings":{
-         "foreground":"#ABB2BF"
+         "foreground":"#D17926"
       }
    },
    {
